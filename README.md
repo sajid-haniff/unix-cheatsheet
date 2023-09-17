@@ -1,4 +1,4 @@
-
+# Unix Cheatsheet: `find` Command
 - **`find . -name "*.gif" -exec ls {} \;`**
   - Finds all `.gif` files in the current directory and its subdirectories and lists them using `ls`.
 
