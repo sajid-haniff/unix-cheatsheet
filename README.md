@@ -1,8 +1,4 @@
-# unix-cheatsheet
 
-Sure, here's a brief Markdown summary for each of those `find` commands:
-
-```markdown
 - **`find . -name "*.gif" -exec ls {} \;`**
   - Finds all `.gif` files in the current directory and its subdirectories and lists them using `ls`.
 
@@ -35,6 +31,4 @@ Sure, here's a brief Markdown summary for each of those `find` commands:
 
 - **`find . –size 0 –exec ls –l {} \;`**
   - Lists all empty files in the current directory and its subdirectories.
-```
 
-Please note that the explanations are made as concise as possible. Some commands might need clarification based on specific use cases. Also, there were some typos in the commands you provided (like `–` instead of `-`), which I've corrected in the explanations.
