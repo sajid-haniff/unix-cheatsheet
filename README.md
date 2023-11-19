@@ -1,15 +1,15 @@
+"Podcast Summary: The Rich Roll Podcast with David Sinclair
 
-"🎙️ Podcast Summary: The Rich Roll Podcast with David Sinclair
-- **Topic**: Aging & Lifespan
-- **Guest**: David Sinclair, Harvard Genetics Professor
-- **Key Points**:
-  - Research on slowing/reversing aging
-  - Insights from his book 'Lifespan: Why We Age and Why We Don't Have To'
-  - Aging as a treatable condition
-  - Role of lifestyle in aging
-  - Debating aging as a disease
-  - Ethical implications of extended lifespans
-- **Watch Here**: [https://www.youtube.com/watch?v=DGC-Cyz0X_4&ab_channel=RichRoll](https://www.youtube.com/watch?v=DGC-Cyz0X_4&ab_channel=RichRoll)"
+Topic: Aging & Lifespan
+Guest: David Sinclair, Harvard Genetics Professor
+Key Points:
+Research on slowing/reversing aging
+Insights from his book 'Lifespan: Why We Age and Why We Don't Have To'
+Aging as a treatable condition
+Role of lifestyle in aging
+Debating aging as a disease
+Ethical implications of extended lifespans
+Watch Here: https://www.youtube.com/watch?v=DGC-Cyz0X_4&ab_channel=RichRoll"
 
 
 
